@@ -2,7 +2,7 @@
 
 ### 1. Overview
 
-![board_demo](assets\demo\board_demo.PNG)
+![board_demo](assets/demo/board_demo.PNG)ss
 
 ### 2. Specifications
 
