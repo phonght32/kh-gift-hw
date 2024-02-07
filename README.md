@@ -17,7 +17,7 @@
 
 #### Schematic
 
-[![schematic](assets/demo/schematic.png)](assets/demo/kh-gift-hw.pdf)
+[![schematic](assets/demo/schematic.PNG)](assets/demo/kh-gift-hw.pdf)
 
 #### PCB Top
 
