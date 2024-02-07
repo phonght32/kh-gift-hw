@@ -4,8 +4,6 @@
 
 ![3d_top](assets/demo/board_demo.png)
 
-Everything about this board: Schematic, PCB gerber and BOM are free to distribute under open-source license for users.
-
 ### 2. Specifications
 
 | Items            | Specifications                                    |
