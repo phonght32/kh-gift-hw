@@ -2,7 +2,7 @@
 
 ### 1. Overview
 
-![3d_top](assets/demo/board_demo.png)
+![board_demo](assets\demo\board_demo.PNG)
 
 ### 2. Specifications
 
