@@ -21,23 +21,23 @@
 
 #### PCB Top
 
-![3d_top](assets/demo/pcb_top.png)
+![pcb_top](assets/demo/pcb_top.PNG)
 
-#### PCB Bottom
+#### PCB Bot
 
-![3d_top](assets/demo/pcb_bot.png)
+![pcb_bot](assets/demo/pcb_bot.PNG)
 
 #### Dimension
 
-![3d_top](assets/demo/dimension.png)
+![dimension](assets/demo/dimension.PNG)
 
 #### 3D Top
 
-![3d_top](assets/demo/3d_top.png)
+![3d_top](assets/demo/3d_top.PNG)
 
 #### 3D Bot
 
-![3d_bot](assets/demo/3d_bot.png)
+![3d_bot](assets/demo/3d_bot.PNG)
 
 ### 4. Bill of Materials (BOM)
 
