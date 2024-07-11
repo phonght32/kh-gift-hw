@@ -41,10 +41,10 @@
 
 ### 4. Bill of Materials (BOM)
 
-[Download.](assets/BOM/kh-gift-hw.xlsx)
+[Download v2.0](assets/BOM/BOM_kh-gift-hw_v2.0.xlsx)
 
 ### 5. Gerber
 
-[gerber_kh_gift_hw_v1_0](assets/gerber_kh_gift_hw_v1_0.zip)
+[Download v1.0](assets/Gerber/Gerber_kh-gift-hw_v1.0.zip)
 
-[gerber_kh_gift_hw_v2_0](assets/gerber_kh_gift_hw_v2_0.zip)
+[Download v2.0](assets/Gerber/Gerber_kh-gift-hw_v2.0.zip)
