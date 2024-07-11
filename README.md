@@ -2,7 +2,7 @@
 
 ### 1. Overview
 
-![board_demo](assets/demo/board_demo.PNG)
+![board_demo](assets/demo/board_demo.png)
 
 ### 2. Specifications
 
@@ -21,11 +21,11 @@
 
 #### PCB Top
 
-![pcb_top](assets/demo/pcb_top.PNG)
+![pcb_top](assets/demo/pcb_top.png)
 
 #### PCB Bot
 
-![pcb_bot](assets/demo/pcb_bot.PNG)
+![pcb_bot](assets/demo/pcb_bot.png)
 
 #### Dimension
 
@@ -33,11 +33,11 @@
 
 #### 3D Top
 
-![3d_top](assets/demo/3d_top.PNG)
+![3d_top](assets/demo/3d_top.png)
 
 #### 3D Bot
 
-![3d_bot](assets/demo/3d_bot.PNG)
+![3d_bot](assets/demo/3d_bot.png)
 
 ### 4. Bill of Materials (BOM)
 
